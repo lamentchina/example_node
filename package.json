@@ -4,7 +4,11 @@
   , "main": "app.js"
   , "version": "0.0.1"
   , "dependencies": {
-    "koala": "^0.7.2"
+    "koa": "^0.8.0"
+    , "koa-ejs": "^1.1.0"
+    , "koa-static": "^1.4.6"
+    , "koa-router": "^3.1.4"
+    , "koa-logger": "^1.2.1"
     , "mongoose": "~3.8.12"
     , "node-uuid": "*"
   }
